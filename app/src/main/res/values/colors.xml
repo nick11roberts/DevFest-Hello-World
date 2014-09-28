@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="bg_color">#A7BAD1</color>
+    <color name="txt_bg_color">#FF6600</color>
+    <color name="txt_fg_color">#A7BAD1</color>
+
+</resources>
