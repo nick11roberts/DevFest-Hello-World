@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">Dev Fest Hello World</string>
-    <string name="hello_world">This is where I have edited the glorious hello world text. Now you try it.</string>
+    <string name="app_name">Dev Fest Hello World Uploader</string>
+    <string name="hello_world">You must press the button.</string>
     <string name="action_settings">Settings</string>
+    <string name="button_text">the button.</string>
 
 </resources>
